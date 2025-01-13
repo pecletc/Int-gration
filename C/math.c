@@ -4,12 +4,14 @@
 /****************** Recherche du maximum ***********************/
 float maximum (float n1, float n2 )
 {
+   fmaxf( float n1, float n2 );
    return 0;
 }
 
 /****************** Recherche du minimum ***********************/
 float minimum (float n1, float n2 )
 {
+   
    return 0;
 }
 
